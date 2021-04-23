@@ -1,0 +1,5 @@
+help(plot)
+help(lines)
+help(loess)
+help(fitted)
+help(order)
